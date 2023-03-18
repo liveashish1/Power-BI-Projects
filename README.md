@@ -16,5 +16,7 @@ area chart, map, slicers, etc)
 ![gitpi](https://user-images.githubusercontent.com/118007169/225159350-c05c9d90-ddda-41bb-917f-5712575229f0.png)
 
 Samples
+![Screenshot (120)](https://user-images.githubusercontent.com/118007169/226142922-3df3f7e9-2731-4c2e-876e-eeff35262738.png)
 
 ![Screenshot (115)](https://user-images.githubusercontent.com/118007169/225758316-32983325-5fe5-462b-8148-133355909148.png)
+
