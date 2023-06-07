@@ -16,6 +16,7 @@ area chart, map, slicers, etc.
 
 
 Samples
+![Screenshot (201)](https://github.com/liveashish1/Power-BI-Projects/assets/118007169/6f18dde9-4b60-4cab-8a37-5b03834d4f2b)
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/118007169/228591502-3d9c67f5-5d03-4d8d-9723-0e902a12dfc5.gif)
 ![gitpi](https://user-images.githubusercontent.com/118007169/225159350-c05c9d90-ddda-41bb-917f-5712575229f0.png)
 ![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/118007169/228607899-7281c3dd-3655-456d-a25d-e0d97fb3935d.gif)
